@@ -5163,6 +5163,62 @@
         "hash": "1a67990c9c1bb0e2737c4b60767156ec5a42aa5496861bed3fb5c2bf018ab80b",
         "size": 213643
     },
+    "CustomSkinLoader/CustomSkinAPIPlus-ClientID": {
+        "hash": "fcad8df1e5b2c8c55dc6cadf2ed918f892939f9fb6848f44b3c29a1dfcc90ec0",
+        "size": 36
+    },
+    "CustomSkinLoader/CustomSkinLoader.json": {
+        "hash": "dd77db3cdcc491f5a7abb08debdd463b0d89ff361a2b89bfeec2f7e9dd43bcd2",
+        "size": 712
+    },
+    "CustomSkinLoader/caches/0cbfd09f9e96e29a0bf7d639d6cae6713d1f789b": {
+        "hash": "7ec4769219f970070c88359f9c4e9f54b1fec259f900a12eba0703babe3bc465",
+        "size": 750
+    },
+    "CustomSkinLoader/caches/0cbfd09f9e96e29a0bf7d639d6cae6713d1f789b.json": {
+        "hash": "7ea146d804ac16ef2979cf8e8c1be7127a6692a45f5f6cee584bfcfdd8bae18e",
+        "size": 155
+    },
+    "CustomSkinLoader/caches/352881e01830940df4de749352b3f81c149b71d9": {
+        "hash": "4d2100badd7a0e83dfb3bbe339c3ced1d84bbfb0b08fefaed89a227b45ccd110",
+        "size": 241
+    },
+    "CustomSkinLoader/caches/352881e01830940df4de749352b3f81c149b71d9.json": {
+        "hash": "5a04046d876a334211f45a063e9b396f17c14e820a925cb58eabf98c894179c8",
+        "size": 181
+    },
+    "CustomSkinLoader/caches/455989938b8d3949cb21c1ce9d926c1f835f99cc": {
+        "hash": "14589ef147d7788eccf5c540f8fb4dba8c7be2ba8f6e199791db2dc121079dfb",
+        "size": 552
+    },
+    "CustomSkinLoader/caches/455989938b8d3949cb21c1ce9d926c1f835f99cc.json": {
+        "hash": "2e50877df0bd473a80ca800a23a7ddf78d3fbd66589283fd9eed893b4e85cdca",
+        "size": 155
+    },
+    "CustomSkinLoader/caches/5aa02d3d6e4843a51e0ea7230c0eb072235c4a8c": {
+        "hash": "0b50d148caeeb01cb87fd9bd3c1434f48ad8a1d6217579212f32a8c9dfb70259",
+        "size": 83
+    },
+    "CustomSkinLoader/caches/5aa02d3d6e4843a51e0ea7230c0eb072235c4a8c.json": {
+        "hash": "d79a711cc2e1654df1bd01693f6a51c9464e3613a15871549cae93ed99cfdb1c",
+        "size": 120
+    },
+    "CustomSkinLoader/caches/9f14d19d3ecddffa53081df34ff39cc9149aff1a": {
+        "hash": "80fa67a7183e0e0624a595c3a4d7f63d2eb1975612e99a42e73ef3c416d12a39",
+        "size": 604
+    },
+    "CustomSkinLoader/caches/9f14d19d3ecddffa53081df34ff39cc9149aff1a.json": {
+        "hash": "4c13a3c17c113f59725719f463a05f25a7a3607508becd9d21dfe8d1661133b8",
+        "size": 151
+    },
+    "CustomSkinLoader/caches/d8e8402eb6a122c02f012b0d5195020367507233": {
+        "hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+        "size": 2
+    },
+    "CustomSkinLoader/caches/d8e8402eb6a122c02f012b0d5195020367507233.json": {
+        "hash": "28a629e31938ff9f06b02e87a454e710489ccb8aab54cf8e31fac07ceece8935",
+        "size": 97
+    },
     "libraries/asm-debug-all-5.2.jar": {
         "hash": "254b82bec9da4f8efbc8b1f93ab2b87f7465227a82b36cf3d05d9e77a0e8dd2e",
         "size": 387903
