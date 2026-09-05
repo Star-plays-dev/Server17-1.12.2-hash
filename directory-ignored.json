@@ -1,5 +1,5 @@
 {
-    "folders": "screenshots logs config crash-reports saves shaderpacks mods .git .mixin.out CustomSkinLoader skins",
+    "folders": "screenshots logs config crash-reports saves shaderpacks mods .git .mixin.out skins fancymenu_setups fancymenu_data",
     "files": "options.txt optionsof.txt usercache.json usernamecache.json .gitattributes",
     "extensions": ".log .gz .dat"
 }

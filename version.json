@@ -1,7 +1,95 @@
 {
+    ".minecraft/CustomSkinLoader/CustomSkinAPIPlus-ClientID": {
+        "hash": "bf987c23dbbb57e3884a8402a4f25317716bd4966eacb1a3e324bdc3a8df2fad",
+        "size": 36
+    },
+    ".minecraft/CustomSkinLoader/CustomSkinLoader.json": {
+        "hash": "dd77db3cdcc491f5a7abb08debdd463b0d89ff361a2b89bfeec2f7e9dd43bcd2",
+        "size": 712
+    },
+    ".minecraft/CustomSkinLoader/caches/0cbfd09f9e96e29a0bf7d639d6cae6713d1f789b": {
+        "hash": "7ec4769219f970070c88359f9c4e9f54b1fec259f900a12eba0703babe3bc465",
+        "size": 750
+    },
+    ".minecraft/CustomSkinLoader/caches/0cbfd09f9e96e29a0bf7d639d6cae6713d1f789b.json": {
+        "hash": "8056bd28dac002fc62bf4d9eb2a4fe5e9ff24abafac550093e72833d3c5329cf",
+        "size": 155
+    },
+    ".minecraft/CustomSkinLoader/caches/352881e01830940df4de749352b3f81c149b71d9": {
+        "hash": "4d2100badd7a0e83dfb3bbe339c3ced1d84bbfb0b08fefaed89a227b45ccd110",
+        "size": 241
+    },
+    ".minecraft/CustomSkinLoader/caches/352881e01830940df4de749352b3f81c149b71d9.json": {
+        "hash": "44994d781693098ddc1e24a5a5ab9af3ab93f489e30b7fec89bab97b48dc90aa",
+        "size": 181
+    },
+    ".minecraft/CustomSkinLoader/caches/455989938b8d3949cb21c1ce9d926c1f835f99cc": {
+        "hash": "14589ef147d7788eccf5c540f8fb4dba8c7be2ba8f6e199791db2dc121079dfb",
+        "size": 552
+    },
+    ".minecraft/CustomSkinLoader/caches/455989938b8d3949cb21c1ce9d926c1f835f99cc.json": {
+        "hash": "b9e783014e4343c68eec1f0e50fdae9e966eb46f5d4fe9b1d319d7537d360a4f",
+        "size": 155
+    },
+    ".minecraft/CustomSkinLoader/caches/5aa02d3d6e4843a51e0ea7230c0eb072235c4a8c": {
+        "hash": "0b50d148caeeb01cb87fd9bd3c1434f48ad8a1d6217579212f32a8c9dfb70259",
+        "size": 83
+    },
+    ".minecraft/CustomSkinLoader/caches/5aa02d3d6e4843a51e0ea7230c0eb072235c4a8c.json": {
+        "hash": "b3e97d9ea11c2817aab8495473782b644fdf510e4493cbf8ef1aee75dd52ffec",
+        "size": 120
+    },
+    ".minecraft/CustomSkinLoader/caches/71ffd2efd6ceab53ae7ab15d75e0f484c79be6dc": {
+        "hash": "886e2e2134846fcf4d09b9050dd8712543977526d4ff9878839a99aea16c47f0",
+        "size": 3353
+    },
+    ".minecraft/CustomSkinLoader/caches/71ffd2efd6ceab53ae7ab15d75e0f484c79be6dc.json": {
+        "hash": "1faa887aca8a4a4e1dbbd009800144ab533ef925161497f24e4d182c71fadb5e",
+        "size": 160
+    },
+    ".minecraft/CustomSkinLoader/caches/9f14d19d3ecddffa53081df34ff39cc9149aff1a": {
+        "hash": "67b9569931eff6b058ed6a7a75e1012654de4c0fa8a60752472eb782734a804c",
+        "size": 604
+    },
+    ".minecraft/CustomSkinLoader/caches/9f14d19d3ecddffa53081df34ff39cc9149aff1a.json": {
+        "hash": "ebe0f0c2facee3667923be71030123f51a68f2a1f0682e79001961171ee94a05",
+        "size": 151
+    },
+    ".minecraft/CustomSkinLoader/caches/b984954c6a7dbf909b87e442267348468d4a16da": {
+        "hash": "f40de7616f2ae4e91f7cfd58f6c61abbe2a151206cc4bbf1959be1e0f24a36bd",
+        "size": 181
+    },
+    ".minecraft/CustomSkinLoader/caches/b984954c6a7dbf909b87e442267348468d4a16da.json": {
+        "hash": "ffd305e20d1e6012375cf0b611c15245d2575fc2eea07844c67c14cb2a3b8919",
+        "size": 132
+    },
+    ".minecraft/CustomSkinLoader/caches/d8e8402eb6a122c02f012b0d5195020367507233": {
+        "hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+        "size": 2
+    },
+    ".minecraft/CustomSkinLoader/caches/d8e8402eb6a122c02f012b0d5195020367507233.json": {
+        "hash": "133a0751befae2222dd93283b83f46e2841f58a9f82839bf93f7526809894590",
+        "size": 97
+    },
+    ".minecraft/CustomSkinLoader/caches/f4b99db9d40de3b1da241b35335b740541c16a81": {
+        "hash": "28dbf1b88072e41af0d08f521f6e9269f511975f68de51ec8f385d412e7bd63f",
+        "size": 149
+    },
+    ".minecraft/CustomSkinLoader/caches/f4b99db9d40de3b1da241b35335b740541c16a81.json": {
+        "hash": "78d8f0f226ade4e2ffaf1d066e24b9d0c170cb12b5f795332290a2919892004e",
+        "size": 100
+    },
+    ".minecraft/CustomSkinLoader/caches/ff8b7c6097fdbe32900bab6b161f1de50e434936": {
+        "hash": "fd8a9dd1f5592f03433d442ead6cd36e7466a4c057a69a9d3772191a1b1197e7",
+        "size": 717
+    },
+    ".minecraft/CustomSkinLoader/caches/ff8b7c6097fdbe32900bab6b161f1de50e434936.json": {
+        "hash": "a1ce03709f7a8f752851883074df5c5789d230469da159a04748b1ff93c01eed",
+        "size": 165
+    },
     "assets/indexes/1.12.json": {
-        "hash": "6636f3b6247394abbe2d235cabb43ff96ab546b649b403ac4ea8d8527d9eee3e",
-        "size": 158804
+        "hash": "b615fab3ea7c70a3e6eaac4c7fa5196bfffaf7944c6305f75ab6e815ab0ba3b3",
+        "size": 159176
     },
     "assets/objects/00/000c82756fd54e40cb236199f2b479629d0aca2f": {
         "hash": "3c4ead70afef1bb53c6a0b6fe61071bf4a25b105e4563b7b7b8eb4e9dc2067e4",
@@ -631,6 +719,10 @@
         "hash": "d051a29e4469c1433744825b63185dbfb59d62b89151a38ab96bfd3aa5125432",
         "size": 7472
     },
+    "assets/objects/21/216077470a9f879bce750597848967a480acbb13": {
+        "hash": "1cd90281b7e824ab8e80874f8e3786b3836c7e3b7d9805f207b00f60c5d52566",
+        "size": 1694084
+    },
     "assets/objects/21/2169e0302e1d7ce1e32dc8d41648c8059da5eaa7": {
         "hash": "ef9af64ee340e70c89619a0c6fb8f8c7fed92e240a6279f205794a3bbc169c31",
         "size": 8524
@@ -799,10 +891,6 @@
         "hash": "2cd3e69f5c0341ee035181d2289455a01b4881a9b162d5b9750c30ba7d33e9b3",
         "size": 4581
     },
-    "assets/objects/28/285f39fc0c8315ef5b380e0a3b498f9fc6429e6e": {
-        "hash": "a197f92b7a46dfa22d1940f5fa9eb442b878d93c911e756825e9e252f798c2b5",
-        "size": 2879311
-    },
     "assets/objects/28/2863897926d38a69cda757d825e362db1457bbf3": {
         "hash": "d035e56f6ea7c34f5e987474d9fca20b163fbad5b43bad344b322b482979c66f",
         "size": 20207
@@ -894,10 +982,6 @@
     "assets/objects/2c/2ccb16055e7974aba40987a46c4b6370b9296106": {
         "hash": "912824478b1121f7eca72c959b8f455ece3f80a5fa78a4e05eeb724d1ae5368b",
         "size": 15195
-    },
-    "assets/objects/2d/2d995a0d1a49a2e48c0752a856ea1f802204621e": {
-        "hash": "b9965e33db43ae52c0e2d82ed8b5f108501422ebe5ebe0f31671fca7ccb759e2",
-        "size": 1123582
     },
     "assets/objects/2d/2df2e501b08129614ebf5e42dcca20b8fc809192": {
         "hash": "8803e16ed486762344605a144e811daef2bf55025c1b23281eafee1cfa5bb15d",
@@ -2943,10 +3027,6 @@
         "hash": "b5f51464a7dd61c307a5ec8976f7deeb8c350cee72291934fe530416124f9e80",
         "size": 7358
     },
-    "assets/objects/97/975a99ed9870f51bbae348533d775d730e3fee18": {
-        "hash": "b33ac54ddcbe81c8f627e8e7eb642f269e0b54686849a2acb4048812eb06711e",
-        "size": 105658
-    },
     "assets/objects/97/97b93f972dc2f293894d9d832cefbe6a7be0bbf1": {
         "hash": "2b44bef2ad25f866d196140cdfd17e1ab3ef06487fa35f538480a75f93d37ac9",
         "size": 168409
@@ -3483,6 +3563,10 @@
         "hash": "062c3175b3ab2b7e44b52a10bb9ff60eb6c01f5b19f165e90df0ab0c215b07d6",
         "size": 7592
     },
+    "assets/objects/ad/ada3444cabbfd5f7eeffb68e716baeecebf8260e": {
+        "hash": "f51f72a825c144297afee550371a9c9a86b8a0a47c6ca8eed50f0b99c3b7a8aa",
+        "size": 1148173
+    },
     "assets/objects/ad/add752f78fbd0398f0e9e0755e4e12dc196b821c": {
         "hash": "af45aaa746c6c384ffc9c9ae655e68b03476b549fcec04987bd5959b7d86cc70",
         "size": 8060
@@ -3823,6 +3907,10 @@
         "hash": "917d64a0bd072642935e3b2825168b5771a2ecae8d16982269058ca7058f861d",
         "size": 69852
     },
+    "assets/objects/bf/bf22c9401acb2bf94bf15cab5cd22b2cff598ee2": {
+        "hash": "38934872f4abce3f171ef5a2d2d6fcf93384edd0854878636dba6f49800af0d5",
+        "size": 2811718
+    },
     "assets/objects/bf/bf5086623d5c6735271074b263116fb914ed79b5": {
         "hash": "626e0f7a5bb15fb82729bf7d1abee398bda35fdce29f369d554061c96be38d1c",
         "size": 15423
@@ -4086,10 +4174,6 @@
     "assets/objects/ca/ca9e12d7b01c10932a3d16e33b9e317396c3d2ea": {
         "hash": "ba4a8bcc17fa138ba41a84214b1f159df7b12bc70020297c1df5d02e5d8b2193",
         "size": 12495
-    },
-    "assets/objects/ca/cabd6c0f859e646750b0da6fb8eb47974159501b": {
-        "hash": "0628cb6422044138a17dfc622e1e5fc5fc8c74bca902de5dc329e4ced8baae61",
-        "size": 105804
     },
     "assets/objects/ca/cabf5d0beb7d1b1dc50707b728c16143b8edf83d": {
         "hash": "c61ee9c87866f60f10532970aa5d750401b726da1e1f9afe9055c157c749056e",
@@ -4671,6 +4755,10 @@
         "hash": "86f8eb446eef371c5d48c907cfadfbe13697e5e40bfc11bd3756bf412c86463e",
         "size": 10091
     },
+    "assets/objects/e6/e6a86c1e12a665b15bc57a6eed0db6d6bc82199e": {
+        "hash": "c4b6035ef781e2880d1f16d776e1369100f0c3b99163399c3cf76080a6d8c481",
+        "size": 105877
+    },
     "assets/objects/e7/e700e2c9abdfc27a32ac3b7f759d6c48a0846992": {
         "hash": "e31be17850d27c622a4e20f1ddc5ec67ef90198ee5d81d27bfe945a18abb059d",
         "size": 6812
@@ -5190,10 +5278,6 @@
     "libraries/commons-lang3-3.8.1.jar": {
         "hash": "dac807f65b07698ff39b1b07bfef3d87ae3fd46d91bbf8a2bc02b2a831616f68",
         "size": 501879
-    },
-    "libraries/desktop.ini": {
-        "hash": "476fe370b5364a35e5609a42ea721d59d5f74c92e818d0ff8e2adf18a05851c8",
-        "size": 3165
     },
     "libraries/error_prone_annotations-2.1.3.jar": {
         "hash": "03d0329547c13da9e17c634d1049ea2ead093925e290567e1a364fd6b1fc7ff8",
